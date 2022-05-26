@@ -1,0 +1,62 @@
+Case,Activity,Resource,Timestamp
+0,Start Game,Player,15:05:49
+0,Reach Level 1,Player,15:05:59
+0,Reach Level 2,Player,15:06:09
+0,Lose Game,Player,15:06:29
+1,Start Game,Player,15:05:49
+1,Reach Level 1,Player,15:05:59
+1,Reach Level 2,Player,15:06:09
+1,Win Game,Player,15:06:19
+2,Start Game,Player,15:05:49
+2,Lose Game,Player,15:06:29
+3,Start Game,Player,15:05:49
+3,Reach Level 1,Player,15:05:59
+3,Lose Game,Player,15:06:29
+4,Start Game,Player,15:05:49
+4,Reach Level 1,Player,15:05:59
+4,Reach Level 2,Player,15:06:09
+4,Lose Game,Player,15:06:29
+5,Start Game,Player,15:05:49
+5,Reach Level 1,Player,15:05:59
+5,Reach Level 2,Player,15:06:09
+5,Win Game,Player,15:06:19
+6,Start Game,Player,15:05:49
+6,Reach Level 1,Player,15:05:59
+6,Lose Game,Player,15:06:29
+7,Start Game,Player,15:05:49
+7,Lose Game,Player,15:06:29
+8,Start Game,Player,15:05:49
+8,Lose Game,Player,15:06:29
+9,Start Game,Player,15:05:49
+9,Reach Level 1,Player,15:05:59
+9,Lose Game,Player,15:06:29
+10,Start Game,Player,15:05:49
+10,Reach Level 1,Player,15:05:59
+10,Lose Game,Player,15:06:29
+11,Start Game,Player,15:05:49
+11,Reach Level 1,Player,15:05:59
+11,Lose Game,Player,15:06:29
+12,Start Game,Player,15:05:49
+12,Reach Level 1,Player,15:05:59
+12,Lose Game,Player,15:06:29
+13,Start Game,Player,15:05:49
+13,Reach Level 1,Player,15:05:59
+13,Reach Level 2,Player,15:06:09
+13,Lose Game,Player,15:06:29
+14,Start Game,Player,15:05:49
+14,Reach Level 1,Player,15:05:59
+14,Reach Level 2,Player,15:06:09
+14,Win Game,Player,15:06:19
+15,Start Game,Player,15:05:49
+15,Reach Level 1,Player,15:05:59
+15,Lose Game,Player,15:06:29
+16,Start Game,Player,15:05:49
+16,Reach Level 1,Player,15:05:59
+16,Reach Level 2,Player,15:06:09
+16,Win Game,Player,15:06:19
+17,Start Game,Player,15:05:49
+17,Lose Game,Player,15:06:29
+18,Start Game,Player,15:05:49
+18,Lose Game,Player,15:06:29
+19,Start Game,Player,15:05:49
+19,Lose Game,Player,15:06:29
